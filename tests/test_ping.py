@@ -1,5 +1,5 @@
 from starlette.testclient import TestClient
-from example_app.main import app
+from dsbattle_api_app.main import app
 
 client = TestClient(app)
 

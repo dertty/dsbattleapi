@@ -2,3 +2,10 @@ fastapi>=0.42.0
 mangum>=0.7.0
 pytest
 requests
+numpy
+scikit-learn
+sqlalchemy
+boto3
+datetime
+python-multipart
+pymysql
